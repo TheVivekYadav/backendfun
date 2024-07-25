@@ -15,7 +15,7 @@ app.get('/login', (req, res) => {
   res.send('<h1>Please Login at chai aur code </h1>');
 });
 
-app.get('/youtube', (req, res) => {
+app.get('/vivek', (req, res) => {
   res.send('<h2>Chai Aur Code</h2>');
 });
 
